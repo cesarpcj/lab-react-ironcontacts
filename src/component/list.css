@@ -1,0 +1,29 @@
+.list {
+}
+
+img {
+  width: 70px;
+}
+
+table {
+  background-color: aliceblue;
+  margin: 20px auto 0;
+  border-radius: 15px;
+  border: 2px dotted darkgoldenrod;
+}
+thead tr th {
+  padding: 20px 20px;
+}
+
+th {
+  font-size: 1.5rem;
+}
+
+tbody tr td {
+  padding: 10px;
+  border-top: 2px dotted darkgoldenrod;
+}
+
+h1 {
+  margin-top: 0;
+}
